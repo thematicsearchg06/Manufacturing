@@ -96,22 +96,22 @@
   background-repeat: no-repeat;
 }
 .fade-carousel .slides .slide-0 {
-  background-image: url(/img/definition.jpg); 
+  background-image: url(img/definition.jpg); 
 }
 .fade-carousel .slides .slide-1 {
-  background-image: url(/img/past.jpg); 
+  background-image: url(img/past.jpg); 
 }
 .fade-carousel .slides .slide-2 {
-  background-image: url(/img/future.png);
+  background-image: url(img/future.png);
 }
 .fade-carousel .slides .slide-3 {
-  background-image: url(/img/case.jpg);
+  background-image: url(img/case.jpg);
 }
 .fade-carousel .slides .slide-4 {
-  background-image: url(/img/whatif.jpg);
+  background-image: url(img/whatif.jpg);
 }
 .fade-carousel .slides .slide-5 {
-  background-image: url(/img/video.jpg);
+  background-image: url(img/video.jpg);
 }
 /********************************/
 /*          Media Queries       */
